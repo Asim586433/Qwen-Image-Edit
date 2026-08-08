@@ -1,13 +1,14 @@
 ---
 title: Qwen Image Edit NSFW
-emoji: 👁
+emoji: 🖼
 colorFrom: blue
-colorTo: gray
+colorTo: purple
 sdk: gradio
-sdk_version: 6.22.0
-python_version: '3.12'
+sdk_version: 6.1.0
 app_file: app.py
-pinned: false
+pinned: true
+disclaimer: nudity
+tags:
+- nsfw
+short_description: Uncensored Image editing tool Edit image with a text prompt
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
