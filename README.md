@@ -6,7 +6,6 @@ colorTo: purple
 sdk: gradio
 sdk_version: 6.1.0
 app_file: app.py
-hf_oauth: true
 pinned: true
 disclaimer: nudity
 tags:
